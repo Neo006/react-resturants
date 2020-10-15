@@ -1,0 +1,72 @@
+[
+   {
+    "id": 1,
+    "name": "Karas",
+    "rating": 4.3,
+    "coordinates": { "latitude": 40.177200, "longitude": 44.503490 },
+    "description": "Armenian food"
+  },
+  {
+    "id": 2,
+    "name": "Healthy food",
+    "rating": 3.8,
+    "coordinates": { "latitude": 40.178400, "longitude": 44.508800 },
+    "description": "Healthy food"
+  },
+  {
+    "id": 3,
+    "name": "Yerevan Pandok",
+    "rating": 4.5,
+    "coordinates": { "latitude": 40.177000, "longitude": 44.490800 },
+    "description": "Make a type specimen"
+  },
+  {
+    "id": 4,
+    "name": "Tospia",
+    "rating": 3.1,
+    "coordinates": { "latitude": 40.167000, "longitude": 44.490800 },
+    "description": "Including versions of"
+  },
+  {
+    "id": 5,
+    "name": "Derian Restaurant",
+    "rating": 3.7,
+    "coordinates": { "latitude": 40.191000, "longitude": 44.518000 },
+    "description": "Not simply random"
+  },
+  {
+    "id": 6,
+    "name": "Lavash",
+    "rating": 4,
+    "coordinates": { "latitude": 40.165000, "longitude": 44.520000 },
+    "description": "Bonorum et Malorum"
+  },
+  {
+    "id": 7,
+    "name": "Caucasus",
+    "rating": 2.5,
+    "coordinates": { "latitude": 40.169000, "longitude": 44.510000 },
+    "description": "Uses a dictionary of"
+  },
+  {
+    "id": 8,
+    "name": "Giovanni",
+    "rating": 3.4,
+    "coordinates": { "latitude": 40.174000, "longitude": 44.510900 },
+    "description": "Majority have suffered"
+  },
+  {
+    "id": 9,
+    "name": "Karas Abovyan",
+    "rating": 3.6,
+    "coordinates": { "latitude": 40.179000, "longitude": 44.512900 },
+    "description": "And a search for"
+  },
+  {
+    "id": 10,
+    "name": "Mayrig Yerevan",
+    "rating": 4.4,
+    "coordinates": { "latitude": 40.169900, "longitude": 44.500900 },
+    "description": "Many desktop publishing"
+  }
+]
